@@ -26,6 +26,11 @@
     This will create a changes to the git reposioriet and it will be an exploation
   </p>
   
+  <div>
+    <p>Jag vet att detta inte ska hanteras alla stora stygga saker
+    </p>
+  </div>
+  
   <p class="read-the-docs">
     Click on the Vite and Svelte logos to learn more
   </p>
