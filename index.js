@@ -16,7 +16,7 @@ const app = express();
 app.use(express.static('dist'));
 
 
-app.get("/hej",(req,res)=> res.send("HALLO"));
+app.get("/hej",(req,res)=> res.send("HALLå"));
 
 // Always serve index.html if nothing else found
 app.get('*', (req, res) => {
