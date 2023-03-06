@@ -23,6 +23,10 @@
   </p>
 
   <p class="read-the-docs">
+    This will create a changes to the git reposioriet and it will be an exploation
+  </p>
+  
+  <p class="read-the-docs">
     Click on the Vite and Svelte logos to learn more
   </p>
 </main>
