@@ -31,6 +31,7 @@
     </p>
   </div>
   
+  <p> jag heter stigen på vägen med alla ni gamal gamar </p>
   <p class="read-the-docs">
     Click on the Vite and Svelte logos to learn more
   </p>
