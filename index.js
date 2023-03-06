@@ -1,8 +1,6 @@
 // Port to run on
 const port = 5000;
-////////////////////////////////////////
-////##################################//
-////////////////////////////////////////
+
 import express from "express";
 import path from 'path';
 import { fileURLToPath } from 'url';
