@@ -22,10 +22,11 @@
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
   </p>
 
-    <p>
-    Test tredje gången
-  </p>
-
+<div>
+<p>
+Nu fungerar det med både cron jobb och bygg
+<p>
+</div>
   <p class="read-the-docs">
     This will create a changes to the git reposioriet and it will be an exploation
   </p>
