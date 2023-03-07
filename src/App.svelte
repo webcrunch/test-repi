@@ -23,7 +23,7 @@
   </p>
 
     <p>
-    Jag vet att du tycker att din hamster är söt
+    Du är som en standard stina
   </p>
 
   <p class="read-the-docs">
