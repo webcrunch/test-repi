@@ -23,7 +23,7 @@
   </p>
 
     <p>
-    Du är som en standard stina
+    Alla ni som sover idag
   </p>
 
   <p class="read-the-docs">
