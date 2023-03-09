@@ -22,10 +22,6 @@
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
   </p>  
 
-  <p>
-  halllooooooo allla ni som sover med katter
-   jag tycker om att ändra saker, jag heter alla ni som sover idag bla bla bla bla _blank
-</p>
   <p class="read-the-docs">
     This will create a changes to the git reposioriet and it will be an exploation
   </p>
