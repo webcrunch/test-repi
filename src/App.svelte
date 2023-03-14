@@ -19,7 +19,7 @@
   </div>
 
   <p>
-  muminlandet
+  muminlandet :) jag heter stina
   </p>
 
   <p>
