@@ -18,11 +18,8 @@
     <Counter />
   </div>
 
-  <p>
-  muminlandet :) jag heter inte något annat än stugailandet
-  </p>
 
-  <p>
+  <p class="read-the-docs">
     Check out <a href="https://github.com/sveltejs/kit#readme" target="_blank" rel="noreferrer">SvelteKit</a>, the official Svelte app framework powered by Vite!
   </p> 
   
